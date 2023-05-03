@@ -1,5 +1,5 @@
 # Problem-Definition
-Welcome to the Problem Definition section of Data Science Chronicles. This section is dedicated to providing practical examples and tutorials on how to define and understand the problem statement, objectives, and goals of a data science project using both R and Python programming languages.
+Welcome to the *Problem Definition* section of Data Science Chronicles. This section is dedicated to providing practical examples and tutorials on how to define and understand the problem statement, objectives, and goals of a data science project using both R and Python programming languages.
 
 ## Table of Contents
 * Introduction to Problem Definition
